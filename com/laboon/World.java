@@ -37,6 +37,7 @@ public class World {
 	
 	/**
 	 * Iterated (non-initial) world constructor.
+         *
 	 * @param cells Cells living in the new world
 	 * @param rng Random number generator
 	 */

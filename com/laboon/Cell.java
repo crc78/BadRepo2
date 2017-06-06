@@ -68,7 +68,7 @@ public class Cell {
 		if (_state == State.DEAD) {
 			toReturn = ' ';
 		} else if (_state == State.ALIVE) {
-			toReturn = 'X';
+			toReturn = '*';
 		} else {
 			toReturn = '_';
 		}
